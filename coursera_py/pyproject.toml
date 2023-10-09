@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "coursera-py"
+version = "0.1.0"
+description = ""
+authors = ["gregtdeane <gregtd93@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+socket-py = "^0.1.0"
+bs4 = "^0.0.1"
+requests = "^2.31.0"
+pandas = "^2.1.1"
+lxml = "^4.9.3"
+python-io = "^0.3"
+ipython = "^8.16.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
