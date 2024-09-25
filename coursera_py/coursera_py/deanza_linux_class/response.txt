@@ -1,0 +1,5 @@
+I work as a system integration engineer and frequently use python every day. 
+However, I have never taken a formal Python class until now and this class has been a great way to get a formal foundation in Python. 
+I plan to take more Python classes so that I can more fluently automate a lot of the tasks I do daily.
+
+The word you entered, 'i', occured 5 times
